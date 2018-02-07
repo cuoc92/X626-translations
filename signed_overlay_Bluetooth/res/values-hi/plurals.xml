@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d फ़ाइलें स्थानांतरित करने में विफल।</item>
+        <item quantity="one">%1$d फ़ाइल स्थानांतरित करने में विफल।</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">%1$d फ़ाइलें सफलतापूर्वक स्थानांतरित की गईं, %2$s</item>
+        <item quantity="one">%1$d फ़ाइल सफलतापूर्वक स्थानांतरित की गई, %2$s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">Prenos datoteka (%1$d) nije uspeo.</item>
+        <item quantity="one">Prenos %1$d datoteke nije uspeo.</item>
+        <item quantity="few">Prenos datoteka (%1$d) nije uspeo.</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">Prenos datoteka (%1$d) je uspeo, %2$s</item>
+        <item quantity="one">Prenos %1$d datoteke je uspeo, %2$s</item>
+        <item quantity="few">Prenos datoteka (%1$d) je uspeo, %2$s</item>
+    </plurals>
+</resources>

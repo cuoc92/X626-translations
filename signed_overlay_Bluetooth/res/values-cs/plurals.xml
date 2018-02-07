@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">Nepodařilo se přenést soubory (%1$d).</item>
+        <item quantity="one">Nepodařilo se přenést %1$d soubor.</item>
+        <item quantity="few">Nepodařilo se přenést soubory (%1$d).</item>
+        <item quantity="many">Nepodařilo se přenést soubory (%1$d).</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">Úspěšně přenesené soubory: %1$d, %2$s</item>
+        <item quantity="one">Byl úspěšně přenesen %1$d soubor, %2$s.</item>
+        <item quantity="few">Úspěšně přenesené soubory: %1$d, %2$s</item>
+        <item quantity="many">Úspěšně přenesené soubory: %1$d, %2$s</item>
+    </plurals>
+</resources>

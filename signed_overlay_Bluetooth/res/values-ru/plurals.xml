@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">Ошибка передачи %1$d файлов.</item>
+        <item quantity="one">Ошибка передачи %1$d файла.</item>
+        <item quantity="few">Ошибка передачи %1$d файлов.</item>
+        <item quantity="many">Ошибка передачи %1$d файлов.</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">Передано %1$d файлов, %2$s</item>
+        <item quantity="one">Передан %1$d файл, %2$s</item>
+        <item quantity="few">Передано %1$d файлов, %2$s</item>
+        <item quantity="many">Передано %1$d файлов, %2$s</item>
+    </plurals>
+</resources>

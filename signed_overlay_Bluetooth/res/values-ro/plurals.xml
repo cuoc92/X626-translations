@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">Nu au fost transferate %1$d fișiere.</item>
+        <item quantity="one">Nu a fost transferat %1$d fișier.</item>
+        <item quantity="few">Nu au fost transferate %1$d fișiere.</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">Au fost transferate %1$d fișiere cu succes, %2$s</item>
+        <item quantity="one">A fost transferat %1$d fișier cu succes, %2$s</item>
+        <item quantity="few">Au fost transferate %1$d fișiere cu succes, %2$s</item>
+    </plurals>
+</resources>

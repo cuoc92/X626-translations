@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">Не перенесено файлів: %1$d.</item>
+        <item quantity="one">Не перенесено файлів: %1$d.</item>
+        <item quantity="few">Не перенесено файлів: %1$d.</item>
+        <item quantity="many">Не перенесено файлів: %1$d.</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">Перенесено файлів: %1$d, %2$s</item>
+        <item quantity="one">Перенесено файлів: %1$d, %2$s</item>
+        <item quantity="few">Перенесено файлів: %1$d, %2$s</item>
+        <item quantity="many">Перенесено файлів: %1$d, %2$s</item>
+    </plurals>
+</resources>
